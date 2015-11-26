@@ -1,4 +1,4 @@
-# pilas
+# PilasEngine
 juego creado en pilas engine
 
 guia de usuario: **Dispara Bombas**
